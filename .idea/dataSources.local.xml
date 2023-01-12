@@ -2,7 +2,7 @@
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="IU-222.4167.29">
     <data-source name="totdtest/Hibernate" uuid="fa220821-31a9-4e85-bceb-6c0f1e27da06">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="ATHENA" exact-version="0" />
       <user-name>root</user-name>
       <schema-mapping />
     </data-source>
