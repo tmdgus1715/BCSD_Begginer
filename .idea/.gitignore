@@ -1,0 +1,17 @@
+# Default ignored files
+src/main/resources/mybatis/config.properties
+**/config.properties
+
+#JWT private
+src/main/org/example/service/logic/JwtServiceLogic.class
+
+#Build
+target/**
+target/classes
+out/
+
+#etc
+.idea/**
+.idea/
+classes/**
+
